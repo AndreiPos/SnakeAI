@@ -1,5 +1,5 @@
 # SnakeAI
-Teaching an AI how to play Snake using Reinforcement learning and Deep Q Learning.
+Teaching an AI how to play Snake using **Reinforcement learning** and **Deep Q Learning**.
 
 This project has been done as a University coursework and I was required to have 4 different files.
 
